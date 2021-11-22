@@ -15703,11 +15703,11 @@
             }
           },
           "_cid": "sPrNmiNcFQ",
+          "_anchor": "image01-c5",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "image01-c5"
+          "_params": {}
         },
         {
           "_name": "content9",
@@ -17666,11 +17666,11 @@
           "_sourceTheme": "restaurantm4",
           "_customHTML": "<section class=\"mbr-section article content4 restaurantm4_content4\" group=\"Content\">\n\n\t<mbr-parameters>\n\t\t<!-- Block parameters controls (Blue \"Gear\" panel) -->\n\t\t<header>Size</header>\n\t\t<input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\t\t<input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\t\t<header>Show / Hide</header>\n\t\t<input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n\t\t<input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n\t\t<input type=\"checkbox\" title=\"Square Counters\" name=\"squareCounters\" condition=\"stylizedCounters\">\n\t\t<header>Colors</header>\n\t\t<input type=\"color\" title=\"Counter Bg\" name=\"counterColor\" value=\"#103178\" condition=\"stylizedCounters\">\n\t\t<input type=\"color\" title=\"Background\" name=\"bgColor\" value=\"#22a5e5\">\n\t\t<input type=\"checkbox\" title=\"Gradient Background\" name=\"gradientBg\" checked>\n\t\t<input type=\"color\" title=\"Background 2\" name=\"bgColor2\" value=\"#ffffff\" condition=\"gradientBg\">\n\t\t<!-- End block parameters -->\n\t</mbr-parameters>\n\n\t<div class=\"container\">\n\t\t<div class=\"row justify-content-center\">\n\t\t\t<h2 class=\"mbr-section-title col-12 col-md-8 mbr-fonts-style align-center pb-3\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">\n\t\t\t\tThe Best Recipe\n\t\t\t</h2>\n\t\t\t<div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n\t\t\t\t<ol>\n\t\t\t\t\t<li><b>Acelerometro: MPU- 6050</b></li>\n\t\t\t\t\t<li><b>Sensor EDA: Seedstudio GSR</b></li>\n\t\t\t\t\t<li><b>Bluethoot: HC-06</b></li>\n\t\t\t\t</ol>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</section>",
           "_cid": "sPs3ddaD4j",
+          "_anchor": "content4-ce",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content4-ce"
+          "_params": {}
         },
         {
           "_name": "content9",
@@ -17798,11 +17798,11 @@
           "_sourceTheme": "restaurantm4",
           "_customHTML": "<section class=\"mbr-section article content4 restaurantm4_content4\" group=\"Content\">\n\n\t<mbr-parameters>\n\t\t<!-- Block parameters controls (Blue \"Gear\" panel) -->\n\t\t<header>Size</header>\n\t\t<input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\t\t<input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\t\t<header>Show / Hide</header>\n\t\t<input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n\t\t<input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n\t\t<input type=\"checkbox\" title=\"Square Counters\" name=\"squareCounters\" condition=\"stylizedCounters\">\n\t\t<header>Colors</header>\n\t\t<input type=\"color\" title=\"Counter Bg\" name=\"counterColor\" value=\"#103178\" condition=\"stylizedCounters\">\n\t\t<input type=\"color\" title=\"Background\" name=\"bgColor\" value=\"#47b5ed\">\n\t\t<input type=\"checkbox\" title=\"Gradient Background\" name=\"gradientBg\" checked>\n\t\t<input type=\"color\" title=\"Background 2\" name=\"bgColor2\" value=\"#ffffff\" condition=\"gradientBg\">\n\t\t<!-- End block parameters -->\n\t</mbr-parameters>\n\n\t<div class=\"container\">\n\t\t<div class=\"row justify-content-center\">\n\t\t\t<h2 class=\"mbr-section-title col-12 col-md-8 mbr-fonts-style align-center pb-3\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">\n\t\t\t\tThe Best Recipe\n\t\t\t</h2>\n\t\t\t<div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n\t\t\t\t<ol>\n\t\t\t\t\t<li><b>Acelerometro: MPU- 9250</b></li>\n\t\t\t\t\t<li><b>Sensor EDA: CJMCU GSR (RASP)</b></li>\n\t\t\t\t\t<li><b>Bluethoot: HM-10</b></li>\n\t\t\t\t</ol>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</section>",
           "_cid": "sPs3cmdbuI",
+          "_anchor": "content4-cd",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content4-cd"
+          "_params": {}
         },
         {
           "_name": "content9",
@@ -17930,11 +17930,11 @@
           "_sourceTheme": "restaurantm4",
           "_customHTML": "<section class=\"mbr-section article content4 restaurantm4_content4\" group=\"Content\">\n\n\t<mbr-parameters>\n\t\t<!-- Block parameters controls (Blue \"Gear\" panel) -->\n\t\t<header>Size</header>\n\t\t<input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\t\t<input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\t\t<header>Show / Hide</header>\n\t\t<input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n\t\t<input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n\t\t<input type=\"checkbox\" title=\"Square Counters\" name=\"squareCounters\" condition=\"stylizedCounters\">\n\t\t<header>Colors</header>\n\t\t<input type=\"color\" title=\"Counter Bg\" name=\"counterColor\" value=\"#103178\" condition=\"stylizedCounters\">\n\t\t<input type=\"color\" title=\"Background\" name=\"bgColor\" value=\"#22a5e5\">\n\t\t<input type=\"checkbox\" title=\"Gradient Background\" name=\"gradientBg\" checked>\n\t\t<input type=\"color\" title=\"Background 2\" name=\"bgColor2\" value=\"#ffffff\" condition=\"gradientBg\">\n\t\t<!-- End block parameters -->\n\t</mbr-parameters>\n\n\t<div class=\"container\">\n\t\t<div class=\"row justify-content-center\">\n\t\t\t<h2 class=\"mbr-section-title col-12 col-md-8 mbr-fonts-style align-center pb-3\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">\n\t\t\t\tThe Best Recipe\n\t\t\t</h2>\n\t\t\t<div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n\t\t\t\t<ol>\n\t\t\t\t\t<li><b>Acelerometro: Hiletgo 6 DOF</b></li>\n\t\t\t\t\t<li><b>Sensor EDA: Biofeedback</b></li>\n\t\t\t\t\t<li><b>Bluethoot: HC-05</b></li>\n\t\t\t\t</ol>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</section>",
           "_cid": "sPs3byaFHc",
+          "_anchor": "content4-cc",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content4-cc"
+          "_params": {}
         },
         {
           "_name": "image4",
@@ -17994,11 +17994,11 @@
           "_sourceTheme": "restaurantm4",
           "_customHTML": "<section class=\"header1 restaurantm4_header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n\t<mbr-parameters>\n\t\t<!-- Block parameters controls (Blue \"Gear\" panel) -->\n\t\t<header>Size</header>\n\t\t<input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n\t\t<input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\t\t<input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\t\t<header>Show / Hide</header>\n\t\t<input type=\"checkbox\" title=\"Arrow\" name=\"showArrow\" checked>\n\t\t<input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n\t\t<input type=\"checkbox\" title=\"Subtitle\" name=\"showSubTitle\">\n\t\t<input type=\"checkbox\" title=\"Text\" name=\"showText\">\n\t\t<input type=\"checkbox\" title=\"Underline\" name=\"showUnderline\" checked>\n\t\t<input type=\"color\" title=\"Underline Color\" name=\"underlineColor\" value=\"#f9e2af\" condition=\"showUnderline\">\n\t\t<header>Background</header>\n\t\t<fieldset type=\"background\" name=\"bg\" parallax>\n\t\t\t<input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/mbr-1920x1280.png\" selected parallax>\n\t\t\t<input type=\"color\" title=\"Color\" value=\"#ffffff\">\n\t\t\t<input type=\"video\" title=\"Video\" value=\"https://www.youtube.com/watch?v=pjiVuLVqWQg\">\n\t\t</fieldset>\n\t\t<input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n\t\t<input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n\t\t<input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n\t\t<!-- End block parameters -->\n\t</mbr-parameters>\n\n\t<div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n\t</div>\n\n\t<div class=\"container\">\n\t\t<div class=\"row\">\n\t\t\t<div class=\"col-lg-8 col-md-10 ml-auto\">\n\t\t\t\t<h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubTitle\">\n\t\t\t\t\tCompatible with Mobirise4\n\t\t\t\t</h3>\n\t\t\t\t<h1 class=\"mbr-section-title align-center mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title,.ornament\">\n\t\t\t\t\tValoración tecnica y económica</h1>\n\t\t\t\t<div class=\"py-3 ornament align-center\" mbr-if=\"showUnderline\">\n\t\t\t\t\t<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 133 20\" height=\"20\" width=\"150\" fill=\"{{underlineColor}}\">\n\t\t\t\t\t\t<g>\n\t\t\t\t\t\t\t<path d=\"M127.18,6.19C121-.05,109.94-.24,101.84.1,90.84.56,80,3.3,69.32,5.77c-8,1.86-16,3.63-24,5.72-9.21,2.41-18.6,4.72-28.14,5.19-4.1.2-8.48,0-12.16-2a6.6,6.6,0,0,1-2.7-9A5.46,5.46,0,0,1,7.07,2.77c4-.22,6.73,8.39-.08,4.58a.49.49,0,0,0-.49.84c4.88,3,10.8,0,5.4-4.91C7.6-.63.4,2.06,0,8-1,24,28.25,17,36.29,15.24,53.74,11.37,70.9,6.44,88.53,3.33c11.1-2,24.75-3.54,35.06,2.19a16,16,0,0,1,6.86,8.85c1.29,4.31-4.35,4.2-7,3.52-4.84-1.26-2.42-8,1.22-3,.61.83,2,0,1.4-.82-2.15-2.93-6.71-4.9-7.12.35s8.36,7.24,11.72,4.47C135,15.32,129.91,9,127.18,6.19Z\"></path>\n\t\t\t\t\t\t</g>\n\t\t\t\t\t</svg>\n\t\t\t\t</div>\n\t\t\t\t<p class=\"mbr-text align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n\t\t\t\t\tWelcome to our restaurant\n\t\t\t\t</p>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n\n\t<div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n\t\t<!-- <span mbr-text class=\"arrow-text\">Scroll Down</span> -->\n\t\t<a href=\"#next\">\n\t\t\t<i class=\"mbri-arrow-down mbr-iconfont\"></i>\n\t\t</a>\n\t</div>\n</section>",
           "_cid": "sPs6Gctx8s",
+          "_anchor": "header1-cf",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "header1-cf"
+          "_params": {}
         },
         {
           "_name": "content9",
@@ -18070,11 +18070,11 @@
           "_sourceTheme": "medicalm4",
           "_customHTML": "<section group=\"Images & Videos\" class=\"image1 medicalm4_image1\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"3\" step=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"3\" step=\"1\">\n\n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"10\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth == false\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth == false\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container-fluid':fullWidth,'container':!fullWidth}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/1231123-848x408.png\" alt>\n        </div>\n    </figure>\n</section>",
           "_cid": "sPs6PMHWLQ",
+          "_anchor": "image1-ck",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "image1-ck"
+          "_params": {}
         },
         {
           "_name": "content9",
@@ -18146,11 +18146,11 @@
           "_sourceTheme": "medicalm4",
           "_customHTML": "<section group=\"Images & Videos\" class=\"image1 medicalm4_image1\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"3\" step=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"3\" step=\"1\">\n\n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"10\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth == false\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth == false\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container-fluid':fullWidth,'container':!fullWidth}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/1234123-1072x247.png\" alt>\n        </div>\n    </figure>\n</section>",
           "_cid": "sPs6Qhalq4",
+          "_anchor": "image1-cl",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "image1-cl"
+          "_params": {}
         }
       ]
     }
